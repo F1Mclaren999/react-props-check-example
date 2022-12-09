@@ -19,4 +19,4 @@ App.propTypes = {
   name: PropTypes.string,
 };
 
-render(<App name={'1'} />, document.getElementById('root'));
+render(<App name={'19'} />, document.getElementById('root'));
